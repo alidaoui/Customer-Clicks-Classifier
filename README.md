@@ -1,3 +1,6 @@
 # Customer-Clicks-Predictor
-Program which predicts customer Clicks based on Time spent on site, and estimated salary. Data set is included in repository (Facebook_Ads.csv).
-Program uses Logistic Regression to Classify Data.
+Python project which predicts customer clicks based on two parameters:
+1. Time spent on site
+2. Estimated salary
+
+Data set is included in repository (Facebook_Ads.csv). This course is based on a tutorial by [Dr. Ryan Ahmed](https://www.udemy.com/user/ryan-ahmed/).
